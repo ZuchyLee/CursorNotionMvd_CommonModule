@@ -1,0 +1,22 @@
+# Build outputs
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Toolchain outputs
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exe
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
